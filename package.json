@@ -1,0 +1,16 @@
+{
+  "name": "douftp.org",
+  "version": "1.0.0",
+  "description": "douftp.org",
+  "main": "index.js",
+  "author": "doudoudzj <doudoudzj@qq.com>",
+  "repository": "https://github.com/douftp/douftp.org.git",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
